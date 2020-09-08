@@ -12,7 +12,6 @@ This is the `first` file. Below is a python code snippet.
 
 Below is a linux command 
 ```bash
-
 $ mkdir Hello-world
 ```
 ```bash
@@ -21,3 +20,4 @@ $ cd Hello-world
 ```bash
 $ git init
 ```
+
