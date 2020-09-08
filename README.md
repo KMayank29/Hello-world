@@ -20,4 +20,5 @@ $ cd Hello-world
 ```bash
 $ git init
 ```
-
+### Learn Pytorch  
+<img src=Introduction-to-TorchScript.png alt="alt text" width=150 height=150 align="middle">
